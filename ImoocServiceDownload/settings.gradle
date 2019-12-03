@@ -1,0 +1,2 @@
+include ':app', ':imoocservicedownloaddemo'
+rootProject.name='ImoocServiceDownload'
